@@ -1,2 +1,2 @@
 # ml_basics
-repository for practice common machine learning algorithms in Python
+repository for practicing common machine learning algorithms in Python
